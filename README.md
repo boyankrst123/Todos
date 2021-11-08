@@ -5,15 +5,14 @@ The npm version that was used during the creating : 8.1.1
 
 ## Steps to get the project running : 
 
-### `git clone https://github.com/boyankrst123/Todos.git`
+1 ### `git clone https://github.com/boyankrst123/Todos.git`
 
-### `cd Todos`
+2 ### `cd Todos`
 
-### `npm install`
+3 ### `npm install`
 
-### `npm start` 
+4 ### `npm start` 
 
 ## After the project compiles the app can be accessed via expo on browser where further options are available 
-###  `http://localhost:4200/` 
 
 Made by : Boyan Krastenyakov @ 11/08/2021
